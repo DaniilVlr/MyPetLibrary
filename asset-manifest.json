@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyPetLibrary/static/css/main.69fa2c21.css",
+    "main.js": "/MyPetLibrary/static/js/main.f9ef7b07.js",
+    "static/js/453.2fd63baf.chunk.js": "/MyPetLibrary/static/js/453.2fd63baf.chunk.js",
+    "index.html": "/MyPetLibrary/index.html",
+    "main.69fa2c21.css.map": "/MyPetLibrary/static/css/main.69fa2c21.css.map",
+    "main.f9ef7b07.js.map": "/MyPetLibrary/static/js/main.f9ef7b07.js.map",
+    "453.2fd63baf.chunk.js.map": "/MyPetLibrary/static/js/453.2fd63baf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69fa2c21.css",
+    "static/js/main.f9ef7b07.js"
+  ]
+}
