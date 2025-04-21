@@ -1,14 +1,19 @@
 @media (max-width: 600px) {
 
-    .movieText {
-        margin-left: 20px;
+    .movieBox {
+        margin: 20px;
         display: flex;
-        flex-direction: column;
-        justify-content: center;
+    
+        
+        background-color: rgba(255, 136, 0, 0.103);
+        border-radius: 0 60px 60px 0;
+    
     }
+    
 
     .Img {
         max-height: 100px;
+        
         margin: 2%;
     }
 
@@ -19,7 +24,7 @@
     margin: 20px;
     display: flex;
 
-
+    
     background-color: rgba(255, 136, 0, 0.103);
     border-radius: 0 60px 60px 0;
 
@@ -59,5 +64,6 @@
 
 .Img {
     max-height: 200px;
+    object-fit: contain;
     margin: 2%;
 }
