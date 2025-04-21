@@ -1,0 +1,47 @@
+.movieBox {
+    margin: 20px;
+    display: flex;
+
+    
+    background-color: rgba(255, 136, 0, 0.103);
+    border-radius: 0 60px 60px 0;
+
+}
+
+.movieText {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.movieTextHead {
+    font-weight: bolder;
+    margin: 10px 0 10px 0;
+}
+
+.movieDescription {
+    margin-bottom: 40px;
+}
+
+
+.movieTextRating {
+    
+    color: orange;
+    font-size: large;
+    font-weight: medium;
+    display: flex;
+    
+    
+}
+
+.outRating {
+    color: aliceblue;
+    margin-left: 7px;
+}
+
+.Img {
+    max-height: 200px;
+    margin: 2%;
+}

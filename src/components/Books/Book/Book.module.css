@@ -1,0 +1,44 @@
+.BookBox {
+    margin: 20px;
+    display: flex;
+
+    border-radius: 0 60px 60px 0;
+    background-color: rgba(255, 136, 0, 0.103);
+    
+
+}
+
+.BookText {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.BookTextHead {
+    font-weight: bolder;
+    margin-bottom: 10px;
+    margin-top: 10px;
+   
+}
+
+.BookDescription {
+    margin-bottom: 40px;
+}
+
+
+.BookTextRating {
+    
+    color: orange;
+    font-size: large;
+    font-weight: medium;
+    display: flex;
+    
+    margin: 10px 0 10px 0;
+}
+
+.Img {
+    max-height: 200px;
+    margin: 2%;
+}
