@@ -51,7 +51,8 @@
     }
     .Img {
         max-height: 150px;
-        margin: 0; 
+        
+        margin-top: 10px; 
     }
     .BookText {
         margin-left: 0; 
