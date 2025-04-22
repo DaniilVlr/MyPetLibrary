@@ -1,7 +1,7 @@
 import s from "./Main.module.css";
 import { NavLink } from "react-router-dom";
 
-import Books from '../Books/Book/Book'
+
 
 function Main() {
     return (

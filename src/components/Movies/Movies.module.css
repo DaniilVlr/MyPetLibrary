@@ -1,16 +1,3 @@
-@media (max-width: 600px) {
-    .sub_main_container {
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        flex-direction: column;
-    
-        padding: 20px;
-        background-color: rgba(240, 248, 255, 0.144);
-        border-radius: 20px;
-    }
-}
-
 
 .parant_container {
     
@@ -63,8 +50,7 @@ text-align: center;
     display: flex;
     justify-content: center;
     width: 100%;
-    
-    
+     
 }
 
 .input {

@@ -46,9 +46,9 @@ h2 {
 }
 
 .links_container {
+   
     display: flex;
-    justify-content: space-between;
-    width: 100%;
+    justify-content: center;
     
 }
 
@@ -59,9 +59,11 @@ h2 {
     width: 160px;
     border: none;
     font-size: 16px;
-    margin: 5px 0;
+    margin: 5px 20px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
+
